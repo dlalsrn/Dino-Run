@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a6c1c3e9-b6d4-4d1e-b965-84b12e1db301)# Dino Run
+# Dino Run
 ![image](https://github.com/user-attachments/assets/491e6b6f-a9aa-4514-90a5-8c18ad2746bc)
 <br><br/>
 
