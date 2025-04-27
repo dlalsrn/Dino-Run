@@ -43,6 +43,7 @@ https://velog.io/@lmg0052/series/Unity2D-Dino-Run
 ## 스크린샷 및 게임 플레이 영상
 ![image](https://github.com/user-attachments/assets/4f190321-f671-4e8d-af9c-c9075d38aff8)
 ![image](https://github.com/user-attachments/assets/941e13c4-8acd-457f-b8fd-1458c5472eca)
+![image](https://github.com/user-attachments/assets/22d23194-8fc7-4c72-959d-8ae599e4c024)
 <br><br/>
 
 - **게임 플레이 영상 링크**: https://www.youtube.com/watch?v=__steYmL93g
